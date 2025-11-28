@@ -13,6 +13,7 @@ let productPrice: number = 1144;
 let productId: string | number;
 
 productId = "PROD-1144"; 
+console.log("----Punto 1----");
 console.log("productId (string):", productId);
 
 productId = 111444;      
